@@ -67,10 +67,3 @@ A website concept where users can customize their skateboard.
 
 ---
 
-## 🎯 Current Goals
-
-```txt
-Learn React       █████████░
-Master JavaScript ████████░░
-Build Projects    █████████░
-Learn Full Stack  ███████░░░
