@@ -91,34 +91,38 @@ I enjoy turning ideas into modern, clean and interactive web experiences. I'm co
 
 ---
 
+
+---
+
 ### 04. GitHub Activity
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=ArchiHex&show_icons=true&hide_border=true&bg_color=101010&title_color=E9A0C3&text_color=FCEAF2&icon_color=F3B7D1" alt="GitHub Statistics"/>
+<h3>Building something new, every day.</h3>
+
+<p>
+  Exploring ideas, writing code, and improving
+  one project at a time.
+</p>
+
+<a href="https://github.com/ArchiHex?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-E9A0C3?style=for-the-badge&logo=github&logoColor=171219&labelColor=171219" alt="Explore my projects"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ArchiHex&hide_border=true&background=101010&ring=E9A0C3&fire=F3B7D1&currStreakLabel=E9A0C3&sideLabels=FCEAF2&dates=AC95A2" alt="GitHub Streak"/>
+<a href="https://github.com/ArchiHex">
+  <img src="https://img.shields.io/badge/VIEW_MY_GITHUB_ACTIVITY-F3B7D1?style=for-the-badge&logo=github&logoColor=171219&labelColor=171219" alt="GitHub Activity"/>
+</a>
+
+<br/><br/>
+
+<i>Every commit is a step forward.</i>
 
 </div>
 
 ---
 
-
-### 04. GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArchiHex&show_icons=true&hide_border=true&bg_color=101010&title_color=E9A0C3&text_color=FCEAF2&icon_color=F3B7D1" alt="GitHub Stats"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ArchiHex&hide_border=true&background=101010&ring=E9A0C3&fire=F3B7D1&currStreakLabel=E9A0C3&sideLabels=FCEAF2&dates=AC95A2" alt="GitHub Streak"/>
-
-</div>
-
----
 
 ### 05. Let's Connect
 
