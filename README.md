@@ -1,69 +1,66 @@
-# 👾 Hey, I'm ArchiHex
+<h1 align="center">Hi 👋, I'm Saad Amzil</h1>
 
-### 💻 Web Developer | React Learner | Building Cool Stuff
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Saad+Amzil;ArchiX;Frontend+Developer;React+Enthusiast;Future+Full-Stack+Developer" alt="Typing SVG" />
+</p>
 
-I'm a developer focused on building modern, clean and useful web applications.
-
-I enjoy learning new technologies, creating projects, and improving my coding skills every day.
+<p align="center">
+  Passionate developer from Morocco 🇲🇦 <br>
+  I love building modern, clean, and interactive web projects.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on web development projects
-- 🌱 Learning React and modern JavaScript
-- 💡 Interested in Front-End and Full-Stack Development
-- 🧠 Always learning and improving
-- ⚡ Username: `ArchiHex`
+- 👨‍💻 Name: **Saad Amzil**
+- 🆔 Nickname: **ArchiX**
+- 🌱 Currently learning: **React, PHP, MySQL**
+- 🎯 Goal: **Become a strong Full-Stack Developer**
+- 💡 Interested in: **Web Development, UI Design, and Creative Projects**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
-### Front-End
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Back-End
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,c,python,react,php,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📚 What I Know
 
-![ArchiHex GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArchiHex&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchiHex&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ArchiHex&theme=tokyonight)
-
----
-
-## 📂 Featured Projects
-
-### 🎲 Dice Game
-A React project where users can roll a virtual dice.
-
-### 🎓 Student Management System
-A web application for managing students, classes, attendance and administration.
-
-### 🛹 Custom Skateboard Website
-A website concept where users can customize their skateboard.
+- **HTML**
+- **CSS**
+- **Bootstrap**
+- **JavaScript**
+- **C**
+- **Python**
+- **React**
+- **PHP**
+- **MySQL**
 
 ---
 
+## 🌟 Personal Motto
+
+<p align="center">
+  <i>"Code with style. Build with passion. Grow every day."</i>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/SaadAmzil" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SaadAmzil-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile ⭐
+</p>
