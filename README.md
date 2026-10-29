@@ -57,21 +57,54 @@ I enjoy turning ideas into modern, clean and interactive web experiences. I'm co
 
 ---
 
+
+---
+
 ### 03. Featured Project
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="450">
+
+<h3>🎲 Dice Game</h3>
+
+<p>A fun and interactive React application.</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-171219?style=flat-square&logo=react&logoColor=F3A6C8" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-171219?style=flat-square&logo=javascript&logoColor=F3A6C8" alt="JavaScript"/>
+</p>
+
 <a href="https://github.com/SaadAmzil/Dice-Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAmzil&repo=Dice-Game&bg_color=101010&title_color=E9A0C3&text_color=FCEAF2&icon_color=F3B7D1&hide_border=true" alt="Dice Game"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-E9A0C3?style=for-the-badge&logo=github&logoColor=171219" alt="View Project"/>
 </a>
 
-<br/>
+</td>
+</tr>
+</table>
 
-*More projects. More experiments. More creativity.*
+<i>More projects. More experiments. More creativity.</i>
 
 </div>
 
 ---
+
+### 04. GitHub Activity
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=ArchiHex&show_icons=true&hide_border=true&bg_color=101010&title_color=E9A0C3&text_color=FCEAF2&icon_color=F3B7D1" alt="GitHub Statistics"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ArchiHex&hide_border=true&background=101010&ring=E9A0C3&fire=F3B7D1&currStreakLabel=E9A0C3&sideLabels=FCEAF2&dates=AC95A2" alt="GitHub Streak"/>
+
+</div>
+
+---
+
 
 ### 04. GitHub Activity
 
